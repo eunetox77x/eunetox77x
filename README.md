@@ -6,7 +6,7 @@
 
 <p align="center">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=KauanBrandao&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBrandao&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunetox77x&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ### 🚀 Tecnologias que faço uso:
